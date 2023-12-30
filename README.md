@@ -22,3 +22,11 @@ TetriB is a simple Tetris game implemented in Python using the Pygame library.
    ```bash
    git clone https://github.com/your-username/tetris-game.git
    cd tetris-game
+
+## Use the arrow keys for control:
+
+- Up arrow: Rotate Tetrimino
+- Down arrow: Move Tetrimino down
+- Left arrow: Move Tetrimino left
+- Right arrow: Move Tetrimino right
+- Press Esc to exit the game.
